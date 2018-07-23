@@ -8,16 +8,6 @@ module.exports = {
     env_production : {
       NODE_ENV: 'production'
     }
-  },
-  {
-    name      : 'DEMO',
-    script    : 'D:\Leonardo\Escritorio\serve\server.js',
-    env: {
-      NODE_ENV: 'development'
-    },
-    env_production : {
-      NODE_ENV: 'production'
-    }
   }],
 
   deploy : {
